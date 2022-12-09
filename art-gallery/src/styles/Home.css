@@ -24,10 +24,18 @@
     font-weight: 50;
     color: black;
   }
+  .headerContainer h2 {
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    height: 45px;
+    font-weight: 50;
+    color: black;
+  }
   
   .headerContainer p {
     padding: 0;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: lighter;
     color: black;
   }
@@ -47,7 +55,8 @@
   }
   
   .headerContainer button:hover {
-    background-color: #07090a;
+    background-color: #ffffff;
+    color: #121619;
     cursor: pointer;
     transition: 0.3s ease-in;
   }
@@ -77,6 +86,11 @@
       height: 30px;
       color: white;
     }
+    .headerContainer h2 {
+      font-size: 40px;
+      height: 30px;
+      color: white;
+    }
   
     .headerContainer p {
       font-size: 30px;
@@ -90,7 +104,7 @@
     }
   
     .headerContainer button:hover {
-      background-color: rgb(225, 225, 225);
+      background-color: rgb(153, 153, 153);
       color: #121619;
     }
   }

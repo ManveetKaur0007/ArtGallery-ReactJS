@@ -15,15 +15,15 @@ function Navbar() {
         <h1>Art Gallery</h1>
         <div className="hiddenLinks">
           <Link to="/"> Home </Link>
-          <Link to="/work"> Work </Link>
           <Link to="/about"> About </Link>
+          <Link to="/work"> Work </Link>
           <Link to="/contact"> Contact </Link>
         </div>
       </div>
       <div className="rightSide">
         <Link to="/"> Home </Link>
-        <Link to="/work"> Work </Link>
         <Link to="/about"> About </Link>
+        <Link to="/work"> Work </Link>
         <Link to="/contact"> Contact </Link>
         <button onClick={toggleNavbar}>
           <AiOutlineMenu/>

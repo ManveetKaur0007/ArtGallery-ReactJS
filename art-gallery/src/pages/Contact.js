@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../assets/images/img-2.jpg";
+import Back from "../assets/images/backgroundImage-3.jpg";
 import "../styles/Contact.css";
 
 function Contact() {

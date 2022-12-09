@@ -8,6 +8,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
+        {/* <a href="https://github.com/ManveetKaur0007"><AiFillGithub /></a> Example of adding proper icons*/}
         <AiOutlineInstagram /> <AiOutlineLinkedin /> <AiFillGithub />
       </div>
       <p> &copy; 2022 The Art Gallery</p>
