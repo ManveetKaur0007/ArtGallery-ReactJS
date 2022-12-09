@@ -10,22 +10,19 @@ function About() {
       ></div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+        <p>There's this notion that to grow a business, you have to be ruthless.
+          But we know there's a better way to grow. One where what's good for the
+          bottom line is also good for customer. We believe businesses can grow 
+          with a conscience, and succeed with a soul - and that they can do it 
+          with inbound. That's why we've created an ecosystem uniting software,
+          education, and community to help businesses grow better every day. 
+          
+          We're a small, tight-knit team focused on making The Art Gallery 
+          empowering and easy to use. Some of us run our own Art Gallery stores, 
+          other are musicians, illustrators, and flimmakers. We've worked hard to 
+          build a company where we do big things. We're here to help you do the same.
         </p>
-        <p>Project made by:<br/>
+        <p className="link">Project made by:<br/>
           <a href="https://manveetkaur0007.wixsite.com/index">Manveet Kaur</a><br/>
           <a href="http://file:///F:/DevFolio/index.html">Simranjit Kaur</a></p>
       </div>
