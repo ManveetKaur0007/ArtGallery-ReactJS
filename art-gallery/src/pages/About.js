@@ -25,6 +25,9 @@ function About() {
           Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
           cumque velit
         </p>
+        <p>Project made by:<br/>
+          <a href="https://manveetkaur0007.wixsite.com/index">Manveet Kaur</a><br/>
+          <a href="http://file:///F:/DevFolio/index.html">Simranjit Kaur</a></p>
       </div>
     </div>
   );
