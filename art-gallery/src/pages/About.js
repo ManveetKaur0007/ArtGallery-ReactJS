@@ -15,12 +15,12 @@ function About() {
           bottom line is also good for customer. We believe businesses can grow 
           with a conscience, and succeed with a soul - and that they can do it 
           with inbound. That's why we've created an ecosystem uniting software,
-          education, and community to help businesses grow better every day. <br/> 
+          education, and community to help businesses grow better every day. <br/><br/> 
           
-          We're a small, tight-knit team focused on making The Art Gallery 
-          empowering and easy to use. Some of us run our own Art Gallery stores, 
-          other are musicians, illustrators, and flimmakers. We've worked hard to 
-          build a company where we do big things. We're here to help you do the same.
+          We're a small, tight-knit team focused on making <strong><em>The Art Gallery </em></strong>
+          empowering and easy to use. Some of us run our own stores, other are musicians, illustrators, 
+          and flimmakers. We've worked hard to build a company where we do big things.<br/><br/>
+          <strong><em>We're here to help you do the same.</em></strong>
         </p>
         <p className="link">Project made by:<br/>
           <a href="https://manveetkaur0007.wixsite.com/index">Manveet Kaur</a><br/>
